@@ -1,4 +1,3 @@
 # Editing
 
-## Create newline below/above current line
-o/O
+- Create newline below/above current line: o/O
